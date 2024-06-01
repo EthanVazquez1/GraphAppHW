@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphLib", "GraphLib\GraphLib.csproj", "{02BFDD1F-B122-4866-B894-2F8B7645D68B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphTests", "GraphTests\GraphTests.csproj", "{32254199-266F-4C63-9F10-6B5C18D4B8D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphApp", "GraphApp\GraphApp.csproj", "{060FF29D-1908-4A6E-B096-39E18A10ECF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02BFDD1F-B122-4866-B894-2F8B7645D68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02BFDD1F-B122-4866-B894-2F8B7645D68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02BFDD1F-B122-4866-B894-2F8B7645D68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02BFDD1F-B122-4866-B894-2F8B7645D68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32254199-266F-4C63-9F10-6B5C18D4B8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32254199-266F-4C63-9F10-6B5C18D4B8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32254199-266F-4C63-9F10-6B5C18D4B8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32254199-266F-4C63-9F10-6B5C18D4B8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060FF29D-1908-4A6E-B096-39E18A10ECF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060FF29D-1908-4A6E-B096-39E18A10ECF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060FF29D-1908-4A6E-B096-39E18A10ECF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060FF29D-1908-4A6E-B096-39E18A10ECF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C95B9DA-3A84-4A14-BDA6-3F0C9AE07215}
+	EndGlobalSection
+EndGlobal
